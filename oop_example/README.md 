@@ -1,0 +1,30 @@
+
+
+
+#########################################################################################################
+
+
+This module contains 4 class -
+  - school
+  - classes
+  - teacher
+  - student
+
+  ######################################################################################
+
+
+  ### INHERITANCE PATTERN #####
+
+  1. classes INHERITS school
+  2. teacher INHERITS classes
+  3. student INHERITS teacher
+
+   ###############################################################################
+
+    ##### END POINT URL ######
+    
+	    please hit this URL to show resultset.
+
+	       your_base_path/oop-examples/page
+
+  ###########################################################################################     

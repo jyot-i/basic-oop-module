@@ -1,0 +1,5 @@
+name: OOP Example
+type: module
+description: 'PSR-4 Namespaces.'
+core: 8.x
+package: OOP Example modules
